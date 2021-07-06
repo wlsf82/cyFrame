@@ -1,0 +1,20 @@
+{
+  "name": "cyframe",
+  "version": "1.0.0",
+  "description": "Sample project to demo how to use the cypress-iframe lib",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "testing",
+    "cypress.io",
+    "e2e tests"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
